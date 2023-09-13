@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "pico-sdk/src/rp2040/hardware_regs",
+		"source" : "/mnt/d/OneDrive/OneDrive - Technical University of Cluj-Napoca/Research/RpiPico/pico-sdk/src/rp2040/hardware_regs"
+	}
+}

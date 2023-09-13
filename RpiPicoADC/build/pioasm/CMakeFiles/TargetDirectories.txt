@@ -1,0 +1,3 @@
+/mnt/d/OneDrive/OneDrive - Technical University of Cluj-Napoca/Research/RpiPico/RpiPicoADC/build/pioasm/CMakeFiles/pioasm.dir
+/mnt/d/OneDrive/OneDrive - Technical University of Cluj-Napoca/Research/RpiPico/RpiPicoADC/build/pioasm/CMakeFiles/edit_cache.dir
+/mnt/d/OneDrive/OneDrive - Technical University of Cluj-Napoca/Research/RpiPico/RpiPicoADC/build/pioasm/CMakeFiles/rebuild_cache.dir

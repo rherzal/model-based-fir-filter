@@ -1,0 +1,5 @@
+/mnt/d/OneDrive/OneDrive - Technical University of Cluj-Napoca/Research/RpiPico/RpiPicoADC/build/elf2uf2/CMakeFiles/elf2uf2.dir
+/mnt/d/OneDrive/OneDrive - Technical University of Cluj-Napoca/Research/RpiPico/RpiPicoADC/build/elf2uf2/CMakeFiles/edit_cache.dir
+/mnt/d/OneDrive/OneDrive - Technical University of Cluj-Napoca/Research/RpiPico/RpiPicoADC/build/elf2uf2/CMakeFiles/rebuild_cache.dir
+/mnt/d/OneDrive/OneDrive - Technical University of Cluj-Napoca/Research/RpiPico/RpiPicoADC/build/elf2uf2/boot_uf2_headers/CMakeFiles/edit_cache.dir
+/mnt/d/OneDrive/OneDrive - Technical University of Cluj-Napoca/Research/RpiPico/RpiPicoADC/build/elf2uf2/boot_uf2_headers/CMakeFiles/rebuild_cache.dir
